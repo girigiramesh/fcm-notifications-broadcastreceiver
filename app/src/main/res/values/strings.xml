@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FCM_BroadcastReceiver</string>
+    <string name="show_token">Show Token</string>
+</resources>
